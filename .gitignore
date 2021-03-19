@@ -1,0 +1,12 @@
+vendor/
+
+coverage.out
+main
+travel-article-headings
+
+*.swp
+*.swo
+
+*.bak*
+*.orig*
+*.diff

@@ -1,0 +1,39 @@
+{
+  "items": [
+    {
+      "title": "Via Marina Piccola, 37, 80067 Sorrento NA, Italy",
+      "id": "here:af:streetsection:gfnNrSRn4KoeCadGbKRsCB:CggIBCDB9eSRAxABGgIzNw",
+      "resultType": "houseNumber",
+      "houseNumberType": "PA",
+      "address": {
+        "label": "Via Marina Piccola, 37, 80067 Sorrento NA, Italy",
+        "countryCode": "ITA",
+        "countryName": "Italy",
+        "state": "Campania",
+        "countyCode": "NA",
+        "county": "Naples",
+        "city": "Sorrento",
+        "street": "Via Marina Piccola",
+        "postalCode": "80067",
+        "houseNumber": "37"
+      },
+      "position": {
+        "lat": 40.62896,
+        "lng": 14.37534
+      },
+      "access": [
+        {
+          "lat": 40.62899,
+          "lng": 14.37512
+        }
+      ],
+      "distance": 27,
+      "mapView": {
+        "west": 14.37419,
+        "south": 40.6265,
+        "east": 14.376,
+        "north": 40.6298
+      }
+    }
+  ]
+}

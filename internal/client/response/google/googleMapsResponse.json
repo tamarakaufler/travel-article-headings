@@ -1,0 +1,793 @@
+{
+    "plus_code" : {
+       "compound_code" : "MM2J+F2 Setagaya City, Tokyo, Japan",
+       "global_code" : "8Q7XMM2J+F2"
+    },
+    "results" : [
+       {
+          "address_components" : [
+             {
+                "long_name" : "21",
+                "short_name" : "21",
+                "types" : [ "premise" ]
+             },
+             {
+                "long_name" : "16",
+                "short_name" : "16",
+                "types" : [ "political", "sublocality", "sublocality_level_4" ]
+             },
+             {
+                "long_name" : "3-chōme",
+                "short_name" : "3-chōme",
+                "types" : [ "political", "sublocality", "sublocality_level_3" ]
+             },
+             {
+                "long_name" : "Ikejiri",
+                "short_name" : "Ikejiri",
+                "types" : [ "political", "sublocality", "sublocality_level_2" ]
+             },
+             {
+                "long_name" : "Setagaya City",
+                "short_name" : "Setagaya City",
+                "types" : [ "locality", "political" ]
+             },
+             {
+                "long_name" : "Tokyo",
+                "short_name" : "Tokyo",
+                "types" : [ "administrative_area_level_1", "political" ]
+             },
+             {
+                "long_name" : "Japan",
+                "short_name" : "JP",
+                "types" : [ "country", "political" ]
+             },
+             {
+                "long_name" : "154-0001",
+                "short_name" : "154-0001",
+                "types" : [ "postal_code" ]
+             }
+          ],
+          "formatted_address" : "3-chōme-16-21 Ikejiri, Setagaya City, Tokyo 154-0001, Japan",
+          "geometry" : {
+             "location" : {
+                "lat" : 35.6510038,
+                "lng" : 139.6800354
+             },
+             "location_type" : "ROOFTOP",
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 35.6523527802915,
+                   "lng" : 139.6813843802915
+                },
+                "southwest" : {
+                   "lat" : 35.6496548197085,
+                   "lng" : 139.6786864197085
+                }
+             }
+          },
+          "place_id" : "ChIJsd6D8af0GGARaTRV4bJe3-g",
+          "plus_code" : {
+             "compound_code" : "MM2J+C2 Setagaya City, Tokyo, Japan",
+             "global_code" : "8Q7XMM2J+C2"
+          },
+          "types" : [ "street_address" ]
+       },
+       {
+          "address_components" : [
+             {
+                "long_name" : "グランデル池尻",
+                "short_name" : "グランデル池尻",
+                "types" : [ "premise" ]
+             },
+             {
+                "long_name" : "21",
+                "short_name" : "21",
+                "types" : [ "premise" ]
+             },
+             {
+                "long_name" : "16",
+                "short_name" : "16",
+                "types" : [ "political", "sublocality", "sublocality_level_4" ]
+             },
+             {
+                "long_name" : "3-chōme",
+                "short_name" : "3-chōme",
+                "types" : [ "political", "sublocality", "sublocality_level_3" ]
+             },
+             {
+                "long_name" : "Ikejiri",
+                "short_name" : "Ikejiri",
+                "types" : [ "political", "sublocality", "sublocality_level_2" ]
+             },
+             {
+                "long_name" : "Setagaya City",
+                "short_name" : "Setagaya City",
+                "types" : [ "locality", "political" ]
+             },
+             {
+                "long_name" : "Tokyo",
+                "short_name" : "Tokyo",
+                "types" : [ "administrative_area_level_1", "political" ]
+             },
+             {
+                "long_name" : "Japan",
+                "short_name" : "JP",
+                "types" : [ "country", "political" ]
+             },
+             {
+                "long_name" : "154-0001",
+                "short_name" : "154-0001",
+                "types" : [ "postal_code" ]
+             }
+          ],
+          "formatted_address" : "Japan, 〒154-0001 Tokyo, Setagaya City, Ikejiri, 3-chōme−16−２１ グランデル池尻",
+          "geometry" : {
+             "bounds" : {
+                "northeast" : {
+                   "lat" : 35.6510564,
+                   "lng" : 139.680121
+                },
+                "southwest" : {
+                   "lat" : 35.65095360000001,
+                   "lng" : 139.6799552
+                }
+             },
+             "location" : {
+                "lat" : 35.6509936,
+                "lng" : 139.6800308
+             },
+             "location_type" : "ROOFTOP",
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 35.65235398029151,
+                   "lng" : 139.6813870802915
+                },
+                "southwest" : {
+                   "lat" : 35.64965601970851,
+                   "lng" : 139.6786891197085
+                }
+             }
+          },
+          "place_id" : "ChIJt1md8af0GGAReT9IBDtDF6g",
+          "types" : [ "premise" ]
+       },
+       {
+          "address_components" : [
+             {
+                "long_name" : "グランデル池尻",
+                "short_name" : "グランデル池尻",
+                "types" : [ "premise" ]
+             },
+             {
+                "long_name" : "21",
+                "short_name" : "21",
+                "types" : [ "premise" ]
+             },
+             {
+                "long_name" : "16",
+                "short_name" : "16",
+                "types" : [ "political", "sublocality", "sublocality_level_4" ]
+             },
+             {
+                "long_name" : "3-chōme",
+                "short_name" : "3-chōme",
+                "types" : [ "political", "sublocality", "sublocality_level_3" ]
+             },
+             {
+                "long_name" : "Ikejiri",
+                "short_name" : "Ikejiri",
+                "types" : [ "political", "sublocality", "sublocality_level_2" ]
+             },
+             {
+                "long_name" : "Setagaya City",
+                "short_name" : "Setagaya City",
+                "types" : [ "locality", "political" ]
+             },
+             {
+                "long_name" : "Tokyo",
+                "short_name" : "Tokyo",
+                "types" : [ "administrative_area_level_1", "political" ]
+             },
+             {
+                "long_name" : "Japan",
+                "short_name" : "JP",
+                "types" : [ "country", "political" ]
+             },
+             {
+                "long_name" : "154-0001",
+                "short_name" : "154-0001",
+                "types" : [ "postal_code" ]
+             }
+          ],
+          "formatted_address" : "Japan, 〒154-0001 Tokyo, Setagaya City, Ikejiri, 3-chōme−16−２１ グランデル池尻",
+          "geometry" : {
+             "location" : {
+                "lat" : 35.6509936,
+                "lng" : 139.6800308
+             },
+             "location_type" : "ROOFTOP",
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 35.6523425802915,
+                   "lng" : 139.6813797802915
+                },
+                "southwest" : {
+                   "lat" : 35.6496446197085,
+                   "lng" : 139.6786818197085
+                }
+             }
+          },
+          "place_id" : "ChIJ-5L4bWX1GGARCCtOpDyZoAs",
+          "plus_code" : {
+             "compound_code" : "MM2J+92 Setagaya City, Tokyo, Japan",
+             "global_code" : "8Q7XMM2J+92"
+          },
+          "types" : [ "establishment", "point_of_interest" ]
+       },
+       {
+          "address_components" : [
+             {
+                "long_name" : "Unnamed Road",
+                "short_name" : "Unnamed Road",
+                "types" : [ "route" ]
+             },
+             {
+                "long_name" : "18",
+                "short_name" : "18",
+                "types" : [ "political", "sublocality", "sublocality_level_4" ]
+             },
+             {
+                "long_name" : "3-chōme",
+                "short_name" : "3-chōme",
+                "types" : [ "political", "sublocality", "sublocality_level_3" ]
+             },
+             {
+                "long_name" : "Ikejiri",
+                "short_name" : "Ikejiri",
+                "types" : [ "political", "sublocality", "sublocality_level_2" ]
+             },
+             {
+                "long_name" : "Setagaya City",
+                "short_name" : "Setagaya City",
+                "types" : [ "locality", "political" ]
+             },
+             {
+                "long_name" : "Tokyo",
+                "short_name" : "Tokyo",
+                "types" : [ "administrative_area_level_1", "political" ]
+             },
+             {
+                "long_name" : "Japan",
+                "short_name" : "JP",
+                "types" : [ "country", "political" ]
+             },
+             {
+                "long_name" : "154-0001",
+                "short_name" : "154-0001",
+                "types" : [ "postal_code" ]
+             }
+          ],
+          "formatted_address" : "Unnamed Road, 3-chōme-18 Ikejiri, Setagaya City, Tokyo 154-0001, Japan",
+          "geometry" : {
+             "bounds" : {
+                "northeast" : {
+                   "lat" : 35.6511477,
+                   "lng" : 139.6801715
+                },
+                "southwest" : {
+                   "lat" : 35.65109,
+                   "lng" : 139.6801562
+                }
+             },
+             "location" : {
+                "lat" : 35.6511189,
+                "lng" : 139.6801639
+             },
+             "location_type" : "GEOMETRIC_CENTER",
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 35.65246783029149,
+                   "lng" : 139.6815128302915
+                },
+                "southwest" : {
+                   "lat" : 35.6497698697085,
+                   "lng" : 139.6788148697085
+                }
+             }
+          },
+          "place_id" : "ChIJh1Lk8Kf0GGARpn03iuaAjM8",
+          "types" : [ "route" ]
+       },
+       {
+          "address_components" : [
+             {
+                "long_name" : "11",
+                "short_name" : "11",
+                "types" : [ "political", "sublocality", "sublocality_level_4" ]
+             },
+             {
+                "long_name" : "3 Chome",
+                "short_name" : "3 Chome",
+                "types" : [ "political", "sublocality", "sublocality_level_3" ]
+             },
+             {
+                "long_name" : "Ikejiri",
+                "short_name" : "Ikejiri",
+                "types" : [ "political", "sublocality", "sublocality_level_2" ]
+             },
+             {
+                "long_name" : "Setagaya City",
+                "short_name" : "Setagaya City",
+                "types" : [ "locality", "political" ]
+             },
+             {
+                "long_name" : "Tokyo",
+                "short_name" : "Tokyo",
+                "types" : [ "administrative_area_level_1", "political" ]
+             },
+             {
+                "long_name" : "Japan",
+                "short_name" : "JP",
+                "types" : [ "country", "political" ]
+             },
+             {
+                "long_name" : "154-0001",
+                "short_name" : "154-0001",
+                "types" : [ "postal_code" ]
+             }
+          ],
+          "formatted_address" : "3 Chome-11 Ikejiri, Setagaya City, Tokyo 154-0001, Japan",
+          "geometry" : {
+             "bounds" : {
+                "northeast" : {
+                   "lat" : 35.6520683,
+                   "lng" : 139.6801647
+                },
+                "southwest" : {
+                   "lat" : 35.6510288,
+                   "lng" : 139.6780521
+                }
+             },
+             "location" : {
+                "lat" : 35.6515274,
+                "lng" : 139.6791735
+             },
+             "location_type" : "GEOMETRIC_CENTER",
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 35.6528975302915,
+                   "lng" : 139.6804573802915
+                },
+                "southwest" : {
+                   "lat" : 35.6501995697085,
+                   "lng" : 139.6777594197085
+                }
+             }
+          },
+          "place_id" : "ChIJ4w5qcFjzGGARO78cfyav5x0",
+          "types" : [ "political", "sublocality", "sublocality_level_4" ]
+       },
+       {
+          "address_components" : [
+             {
+                "long_name" : "3 Chome",
+                "short_name" : "3 Chome",
+                "types" : [ "political", "sublocality", "sublocality_level_3" ]
+             },
+             {
+                "long_name" : "Ikejiri",
+                "short_name" : "Ikejiri",
+                "types" : [ "political", "sublocality", "sublocality_level_2" ]
+             },
+             {
+                "long_name" : "Setagaya City",
+                "short_name" : "Setagaya City",
+                "types" : [ "locality", "political" ]
+             },
+             {
+                "long_name" : "Tokyo",
+                "short_name" : "Tokyo",
+                "types" : [ "administrative_area_level_1", "political" ]
+             },
+             {
+                "long_name" : "Japan",
+                "short_name" : "JP",
+                "types" : [ "country", "political" ]
+             },
+             {
+                "long_name" : "154-0001",
+                "short_name" : "154-0001",
+                "types" : [ "postal_code" ]
+             }
+          ],
+          "formatted_address" : "3 Chome Ikejiri, Setagaya City, Tokyo 154-0001, Japan",
+          "geometry" : {
+             "bounds" : {
+                "northeast" : {
+                   "lat" : 35.6523724,
+                   "lng" : 139.6846723
+                },
+                "southwest" : {
+                   "lat" : 35.647246,
+                   "lng" : 139.677496
+                }
+             },
+             "location" : {
+                "lat" : 35.6501422,
+                "lng" : 139.679652
+             },
+             "location_type" : "APPROXIMATE",
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 35.6523724,
+                   "lng" : 139.6846723
+                },
+                "southwest" : {
+                   "lat" : 35.647246,
+                   "lng" : 139.677496
+                }
+             }
+          },
+          "place_id" : "ChIJsYgHf6j0GGARt4Gu9VejK68",
+          "types" : [ "political", "sublocality", "sublocality_level_3" ]
+       },
+       {
+          "address_components" : [
+             {
+                "long_name" : "154-0001",
+                "short_name" : "154-0001",
+                "types" : [ "postal_code" ]
+             },
+             {
+                "long_name" : "Ikejiri",
+                "short_name" : "Ikejiri",
+                "types" : [ "political", "sublocality", "sublocality_level_2" ]
+             },
+             {
+                "long_name" : "Setagaya City",
+                "short_name" : "Setagaya City",
+                "types" : [ "locality", "political" ]
+             },
+             {
+                "long_name" : "Tokyo",
+                "short_name" : "Tokyo",
+                "types" : [ "administrative_area_level_1", "political" ]
+             },
+             {
+                "long_name" : "Japan",
+                "short_name" : "JP",
+                "types" : [ "country", "political" ]
+             }
+          ],
+          "formatted_address" : "154-0001, Japan",
+          "geometry" : {
+             "bounds" : {
+                "northeast" : {
+                   "lat" : 35.6556893,
+                   "lng" : 139.6859589
+                },
+                "southwest" : {
+                   "lat" : 35.6413593,
+                   "lng" : 139.6726519
+                }
+             },
+             "location" : {
+                "lat" : 35.6488732,
+                "lng" : 139.6822041
+             },
+             "location_type" : "APPROXIMATE",
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 35.6556893,
+                   "lng" : 139.6859589
+                },
+                "southwest" : {
+                   "lat" : 35.6413593,
+                   "lng" : 139.6726519
+                }
+             }
+          },
+          "place_id" : "ChIJdwZfpaj0GGARoFMPf23qFMk",
+          "types" : [ "postal_code" ]
+       },
+       {
+          "address_components" : [
+             {
+                "long_name" : "Ikejiri",
+                "short_name" : "Ikejiri",
+                "types" : [ "political", "sublocality", "sublocality_level_2" ]
+             },
+             {
+                "long_name" : "Setagaya City",
+                "short_name" : "Setagaya City",
+                "types" : [ "locality", "political" ]
+             },
+             {
+                "long_name" : "Tokyo",
+                "short_name" : "Tokyo",
+                "types" : [ "administrative_area_level_1", "political" ]
+             },
+             {
+                "long_name" : "Japan",
+                "short_name" : "JP",
+                "types" : [ "country", "political" ]
+             },
+             {
+                "long_name" : "154-0001",
+                "short_name" : "154-0001",
+                "types" : [ "postal_code" ]
+             }
+          ],
+          "formatted_address" : "Ikejiri, Setagaya City, Tokyo 154-0001, Japan",
+          "geometry" : {
+             "bounds" : {
+                "northeast" : {
+                   "lat" : 35.6556893,
+                   "lng" : 139.6859589
+                },
+                "southwest" : {
+                   "lat" : 35.6413593,
+                   "lng" : 139.6726519
+                }
+             },
+             "location" : {
+                "lat" : 35.6488732,
+                "lng" : 139.6822041
+             },
+             "location_type" : "APPROXIMATE",
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 35.6556893,
+                   "lng" : 139.6859589
+                },
+                "southwest" : {
+                   "lat" : 35.6413593,
+                   "lng" : 139.6726519
+                }
+             }
+          },
+          "place_id" : "ChIJ1y4LUqb0GGAR4vr6NgSG49I",
+          "types" : [ "political", "sublocality", "sublocality_level_2" ]
+       },
+       {
+          "address_components" : [
+             {
+                "long_name" : "Setagaya City",
+                "short_name" : "Setagaya City",
+                "types" : [ "locality", "political" ]
+             },
+             {
+                "long_name" : "Tokyo",
+                "short_name" : "Tokyo",
+                "types" : [ "administrative_area_level_1", "political" ]
+             },
+             {
+                "long_name" : "Japan",
+                "short_name" : "JP",
+                "types" : [ "country", "political" ]
+             }
+          ],
+          "formatted_address" : "Setagaya City, Tokyo, Japan",
+          "geometry" : {
+             "bounds" : {
+                "northeast" : {
+                   "lat" : 35.6829477,
+                   "lng" : 139.6864937
+                },
+                "southwest" : {
+                   "lat" : 35.589936,
+                   "lng" : 139.5824407
+                }
+             },
+             "location" : {
+                "lat" : 35.6465615,
+                "lng" : 139.6532924
+             },
+             "location_type" : "APPROXIMATE",
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 35.6829477,
+                   "lng" : 139.6864937
+                },
+                "southwest" : {
+                   "lat" : 35.589936,
+                   "lng" : 139.5824407
+                }
+             }
+          },
+          "place_id" : "ChIJYY1t3YvzGGAReaiNhdIQvE4",
+          "types" : [ "locality", "political" ]
+       },
+       {
+          "address_components" : [
+             {
+                "long_name" : "Tokyo",
+                "short_name" : "Tokyo",
+                "types" : [ "colloquial_area", "locality", "political" ]
+             },
+             {
+                "long_name" : "Tokyo",
+                "short_name" : "Tokyo",
+                "types" : [ "administrative_area_level_1", "political" ]
+             },
+             {
+                "long_name" : "Japan",
+                "short_name" : "JP",
+                "types" : [ "country", "political" ]
+             }
+          ],
+          "formatted_address" : "Tokyo, Japan",
+          "geometry" : {
+             "bounds" : {
+                "northeast" : {
+                   "lat" : 35.8174453,
+                   "lng" : 139.9188743
+                },
+                "southwest" : {
+                   "lat" : 35.519042,
+                   "lng" : 139.5628611
+                }
+             },
+             "location" : {
+                "lat" : 35.6803997,
+                "lng" : 139.7690174
+             },
+             "location_type" : "APPROXIMATE",
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 35.8174453,
+                   "lng" : 139.9188743
+                },
+                "southwest" : {
+                   "lat" : 35.519042,
+                   "lng" : 139.5628611
+                }
+             }
+          },
+          "place_id" : "ChIJXSModoWLGGARILWiCfeu2M0",
+          "types" : [ "colloquial_area", "locality", "political" ]
+       },
+       {
+          "address_components" : [
+             {
+                "long_name" : "Tokyo",
+                "short_name" : "Tokyo",
+                "types" : [ "administrative_area_level_1", "political" ]
+             },
+             {
+                "long_name" : "Japan",
+                "short_name" : "JP",
+                "types" : [ "country", "political" ]
+             }
+          ],
+          "formatted_address" : "Tokyo, Japan",
+          "geometry" : {
+             "bounds" : {
+                "northeast" : {
+                   "lat" : 35.8984285,
+                   "lng" : 153.9867945
+                },
+                "southwest" : {
+                   "lat" : 20.4251031,
+                   "lng" : 136.0696826
+                }
+             },
+             "location" : {
+                "lat" : 35.6761919,
+                "lng" : 139.6503106
+             },
+             "location_type" : "APPROXIMATE",
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 35.8984285,
+                   "lng" : 153.9867945
+                },
+                "southwest" : {
+                   "lat" : 20.4251031,
+                   "lng" : 136.0696826
+                }
+             }
+          },
+          "place_id" : "ChIJ51cu8IcbXWARiRtXIothAS4",
+          "types" : [ "administrative_area_level_1", "political" ]
+       },
+       {
+          "address_components" : [
+             {
+                "long_name" : "Japan",
+                "short_name" : "JP",
+                "types" : [ "country", "political" ]
+             }
+          ],
+          "formatted_address" : "Japan",
+          "geometry" : {
+             "bounds" : {
+                "northeast" : {
+                   "lat" : 45.6412626,
+                   "lng" : 154.0031455
+                },
+                "southwest" : {
+                   "lat" : 20.3585295,
+                   "lng" : 122.8554688
+                }
+             },
+             "location" : {
+                "lat" : 36.204824,
+                "lng" : 138.252924
+             },
+             "location_type" : "APPROXIMATE",
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 45.6412626,
+                   "lng" : 154.0031455
+                },
+                "southwest" : {
+                   "lat" : 20.3585295,
+                   "lng" : 122.8554688
+                }
+             }
+          },
+          "place_id" : "ChIJLxl_1w9OZzQRRFJmfNR1QvU",
+          "types" : [ "country", "political" ]
+       },
+       {
+          "address_components" : [
+             {
+                "long_name" : "MM2J+F2",
+                "short_name" : "MM2J+F2",
+                "types" : [ "plus_code" ]
+             },
+             {
+                "long_name" : "Setagaya City",
+                "short_name" : "Setagaya City",
+                "types" : [ "locality", "political" ]
+             },
+             {
+                "long_name" : "Tokyo",
+                "short_name" : "Tokyo",
+                "types" : [ "administrative_area_level_1", "political" ]
+             },
+             {
+                "long_name" : "Japan",
+                "short_name" : "JP",
+                "types" : [ "country", "political" ]
+             }
+          ],
+          "formatted_address" : "MM2J+F2 Setagaya City, Tokyo, Japan",
+          "geometry" : {
+             "bounds" : {
+                "northeast" : {
+                   "lat" : 35.65125,
+                   "lng" : 139.680125
+                },
+                "southwest" : {
+                   "lat" : 35.651125,
+                   "lng" : 139.68
+                }
+             },
+             "location" : {
+                "lat" : 35.6512,
+                "lng" : 139.68
+             },
+             "location_type" : "ROOFTOP",
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 35.6525364802915,
+                   "lng" : 139.6814114802915
+                },
+                "southwest" : {
+                   "lat" : 35.6498385197085,
+                   "lng" : 139.6787135197085
+                }
+             }
+          },
+          "place_id" : "GhIJ3ZOHhVrTQUAR9ihcj8J1YUA",
+          "plus_code" : {
+             "compound_code" : "MM2J+F2 Setagaya City, Tokyo, Japan",
+             "global_code" : "8Q7XMM2J+F2"
+          },
+          "types" : [ "plus_code" ]
+       }
+    ],
+    "status" : "OK"
+ }
