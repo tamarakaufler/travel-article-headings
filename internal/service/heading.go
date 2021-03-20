@@ -76,7 +76,7 @@ func CreateArticleHeadings(ctx context.Context,
 	articleLocationData []photo.LocationM, articleWeatherData []photo.WeatherM, articlePOIData []photo.PoiM,
 ) ArticleHeadings {
 	headingStart1 := []string{"Enjoy your break", "Having great time",
-		"Experience of a lifetime", "Holiday of a lifetime", "Wonderful break"}
+		"Experience of a lifetime", "Have a holiday of a lifetime", "Wonderful break"}
 	headingStart2 := []string{"Enjoy happy days", "Have hilarious time"}
 	headingMiddle := []string{"with friends", "with family", "on your own"}
 	headingForPlaces := []string{"full of", "bursting with", "brimming with", "packed with"}

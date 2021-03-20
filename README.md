@@ -103,7 +103,7 @@ heading suggestions are provided as soon as the article's photos are processed.
 ##### HTTP 429/Too many requests error
 
 To avoid rate limiting as much as possible and still have the files processed in a timely manner,
-randomised sleep (between 300 and 500ms) was added between spinning of goroutines for location retrieval
+randomised sleep (between 150 and 250ms) was added between spinning of goroutines for location retrieval
 of each article. This has eliminated rate limiting from Here.com while still taking advantage of running
 requests concurrently as they can take different times.
 
