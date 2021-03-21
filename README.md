@@ -79,19 +79,19 @@ Running of the tool can be interrupted with CTRL/C.
 
 Location information is retrieved using Here.com reverse geocoding API.
 
-I could not find a free historical weather service, so I created a mock.
+I could not find a free historical weather service, so there is a mock.
 
 Using Google Places (finding places of interest (poi) like restautants, cafes, bars etc in the given area)
 requires signing up, which I don't want to do at the moment. Here.com provides
-a similar functionality, however I am currently using a mock, because getting POI data is in principal
-the same as that of using reverse geocoding request. 
+a similar functionality, however a mock is used, because getting POI data is in principal
+the same as that of using reverse geocoding request. TODO later.
 
 Photo date is processed for time related information: weekday/weekend, month and season.
 
 
 If any of the location, weather or places of interest return no data, no headings will be provided.
 
-Note
+NOTE
 
 The location and the time data stays the same for an article. The weather and places of interest data is
 mocked and generates random results from run to run.
