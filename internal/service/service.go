@@ -217,7 +217,7 @@ func (as ArticleService) CollectAdditionalInfo(ctx context.Context,
 			// This is preferable to processing photos sequentially with a backoff between requests
 			// as each request can take a different amount of time, so we can still take advantage of
 			// concurrency.
-			generateSleep(100, 150)
+			generateSleep(100, 160)
 
 			go func(ctx context.Context, wgL *sync.WaitGroup, pd photo.Data) {
 				defer wgL.Done()
