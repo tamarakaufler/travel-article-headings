@@ -13,7 +13,7 @@ A default directory (data4testing) with article files can be overriden. There is
 - through -dir flag
 - through TRAVEL_ARTICLES_DIR environment variable
 
-If both customizations are provided, the -dir flag takes precedence
+If both customizations are provided, the -dir flag takes precedence.
 
 The purpose of implemented tests was to continue faster with the project, rather than provide good
 coverage. There is a couple of additional ones, to show more complex testing can be approached.
