@@ -98,7 +98,7 @@ mocked and generates random results from run to run.
 
 #### Concurrency
 
-Each file photos are processed concurrently for location/weather/POIs (also processed concurrently) and
+Each file's photos are processed concurrently for location/weather/POIs (also processed concurrently) and
 heading suggestions are provided as soon as the article's photos are processed.
 
 ##### HTTP 429/Too many requests error
