@@ -67,6 +67,7 @@ Running of the tool can be interrupted with CTRL/C.
 - if both TRAVEL_ARTICLES_DIR and -dir flag are provided, the flag takes precedence.
 - if the -dir flag is not provided, the default directory is used (data4testing dir)
 - article heading suggestion is based on:
+
     - photo locations
     - weather conditions
     - places of interest (the highest number of places of a certain type, eg restaurants, cafes,
