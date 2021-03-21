@@ -104,8 +104,9 @@ heading suggestions are provided as soon as the article's photos are processed.
 
 To avoid rate limiting as much as possible and still have the files processed in a timely manner,
 randomised sleep (between 150 and 250ms) was added between spinning of goroutines for location retrieval
-of each article. This has eliminated rate limiting from Here.com while still taking advantage of running
-requests concurrently as they can take different times.
+of each article. The randomization ensures the goroutines start at different times to avoid a too many goroutines
+hitting the 3rd party at the same time. This has eliminated rate limiting from Here.com while still taking advantage
+of the possibility of running requests concurrently as they can take different times to complete.
 
 ## Improvements
 
