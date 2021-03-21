@@ -115,7 +115,7 @@ of the possibility of running requests concurrently as they can take different t
 - the provided test for the service CollectAdditionalInfo method has a race condition. Runs ok without
   the -race flag.
 
-- avoid duplicate photo retrieval using caching (though the 3rd party will very likely cache themselves)
+- avoid duplicate photo retrieval using caching (though the 3rd party may cache themselves)
 
 - error consideration:
   - provide statistics about failures and their kind
