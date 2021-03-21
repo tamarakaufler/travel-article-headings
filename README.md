@@ -12,6 +12,7 @@ a list of heading suggestions is provided for each article.
 A default directory (data4testing) with article files can be overriden. There is a two way overriding:
 - through -dir flag
 - through TRAVEL_ARTICLES_DIR environment variable
+
 If both customizations are provided, the -dir flag takes precedence
 
 The purpose of implemented tests was to continue faster with the project, rather than provide good
