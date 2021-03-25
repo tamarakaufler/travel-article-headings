@@ -96,9 +96,9 @@ func headers() map[string][]string {
 		// This header results in "invalid character '\x1f' looking for beginning of value"
 		// (https://github.com/influxdata/influxdb-go/issues/12)
 		//	"Accept-Encoding": {"gzip", "deflate", "br"}:
-		//					causes an error "invalid character '\x1f' looking for beginning of value"
-		//					The reason is that the 3rd party sends compressed content, that would
-		//					need to be uncompressed before unmarshalling.
+		//					causes an error "invalid character '\x1f' looking for beginning of value".
+		//					The reason is that, if using this header, the 3rd party sends compressed
+		//					content, that would need to be uncompressed before unmarshalling.
 		"Content-Type":    {"application/json; charset=UTF-8"},
 		"Connection":      {"keep-alive"},
 		"Cache-Control":   {"max-age=0"},
