@@ -93,7 +93,7 @@ func (c client) MakeGetRequest(ctx context.Context, query map[string]string) ([]
 func headers() map[string][]string {
 	return map[string][]string{
 		"Accept": {"application/json"},
-		// These headers result in "invalid character '\x1f' looking for beginning of value"
+		// This header results in "invalid character '\x1f' looking for beginning of value"
 		// (https://github.com/influxdata/influxdb-go/issues/12)
 		//	"Accept-Encoding": {"gzip", "deflate", "br"}:
 		//					causes an error "invalid character '\x1f' looking for beginning of value"
