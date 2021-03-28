@@ -120,7 +120,7 @@ This project is using a free 3rd party API. Free services will have a stricter r
 - the provided test for the service CollectAdditionalInfo method has a race condition. Runs ok without
   the -race flag.
 
-- avoid duplicate photo retrieval using caching (though the 3rd party may cache themselves)
+- avoid duplicate photo retrieval info using caching (though the 3rd party may cache themselves)
 
 - error consideration:
   - provide statistics about failures and their kind
