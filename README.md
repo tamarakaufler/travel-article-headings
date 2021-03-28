@@ -110,6 +110,9 @@ of each article. The randomization ensures the goroutines start at different tim
 hitting the 3rd party at the same time. This has eliminated rate limiting from Here.com while still taking advantage
 of the possibility of running requests concurrently as they can take different times to complete.
 
+This project is using a free 3rd party API. Free services will have a stricter rate limiting than paid for services.
+3rd parties also often cache requests, so rerunning the task make work better and faster.
+
 ## Improvements
 
 - comprehensive test coverage
