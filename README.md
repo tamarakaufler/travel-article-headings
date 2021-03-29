@@ -46,6 +46,8 @@ To provide custom directory:
 
 - HERE_API_KEY=xxxx make all
 
+- docker run --rm -v ${PWD}/data:/data -v ${PWD}/data4testing:/data4testing --env HERE_API_KEY=xxxx --env TRAVEL_ARTICLES_DIR=data docker.io/forbiddenforrest/travel-article-headings:v1.0.0
+
 ### Testing
 
 - make test (does not include client tests)
