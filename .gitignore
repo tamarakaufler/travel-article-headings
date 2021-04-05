@@ -10,3 +10,5 @@ travel-article-headings
 *.bak*
 *.orig*
 *.diff
+
+HERE_API_KEY*
